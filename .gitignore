@@ -1,0 +1,14 @@
+# Manim render cache and partial movies — only final renders are committed
+media/
+__pycache__/
+frames/
+frames*/
+
+# WAV masters stay local; the repo stores MP3 audio
+*.wav
+
+# Working files
+concat_list.txt
+frag_concat_list.txt
+*_silent.mp4
+.DS_Store
