@@ -9,7 +9,7 @@ Source archive for the YouTube channel [@logicanimated](https://www.youtube.com/
 | # | Title | Published | Watch | Source |
 |---|-------|-----------|-------|--------|
 | 001 | Internal vs External Fragmentation — Memory Full AND Free? | Nov 15, 2026 | [YouTube Short](https://youtube.com/shorts/cSCvb2YmyH4) | [videos/001-fragmentation](videos/001-fragmentation) |
-| 002 | Best Time to Buy and Sell Stock — LeetCode 121 in 60 Seconds | Nov 15, 2026 | not yet uploaded | [videos/002-best-time-to-buy-and-sell-stock](videos/002-best-time-to-buy-and-sell-stock) |
+| 002 | Best Time to Buy and Sell Stock — LeetCode 121 in 60 Seconds | Nov 15, 2026 | [YouTube Short](https://youtube.com/shorts/0-5Zyh1DtFM) | [videos/002-best-time-to-buy-and-sell-stock](videos/002-best-time-to-buy-and-sell-stock) |
 
 ## How each video is made
 
