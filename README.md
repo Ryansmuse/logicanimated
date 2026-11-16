@@ -10,6 +10,7 @@ Source archive for the YouTube channel [@logicanimated](https://www.youtube.com/
 |---|-------|-----------|-------|--------|
 | 001 | Internal vs External Fragmentation — Memory Full AND Free? | Nov 15, 2026 | [YouTube Short](https://youtube.com/shorts/cSCvb2YmyH4) | [videos/001-fragmentation](videos/001-fragmentation) |
 | 002 | Best Time to Buy and Sell Stock — LeetCode 121 in 60 Seconds | Nov 15, 2026 | [YouTube Short](https://youtube.com/shorts/0-5Zyh1DtFM) | [videos/002-best-time-to-buy-and-sell-stock](videos/002-best-time-to-buy-and-sell-stock) |
+| 003 | First-Fit vs Best-Fit vs Worst-Fit — Where Does the OS Put Your Program? | Nov 15, 2026 | Scheduled: Mon Nov 16, 2026, 10:00 AM CT | [videos/003-first-fit-vs-best-fit](videos/003-first-fit-vs-best-fit) |
 
 ## How each video is made
 
