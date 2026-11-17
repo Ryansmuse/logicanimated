@@ -10,7 +10,8 @@ Source archive for the YouTube channel [@logicanimated](https://www.youtube.com/
 |---|-------|-----------|-------|--------|
 | 001 | Internal vs External Fragmentation — Memory Full AND Free? | Nov 15, 2026 | [YouTube Short](https://youtube.com/shorts/cSCvb2YmyH4) | [videos/001-fragmentation](videos/001-fragmentation) |
 | 002 | Best Time to Buy and Sell Stock — LeetCode 121 in 60 Seconds | Nov 15, 2026 | [YouTube Short](https://youtube.com/shorts/0-5Zyh1DtFM) | [videos/002-best-time-to-buy-and-sell-stock](videos/002-best-time-to-buy-and-sell-stock) |
-| 003 | First-Fit vs Best-Fit vs Worst-Fit — Where Does the OS Put Your Program? | Nov 15, 2026 | Scheduled: Mon Nov 16, 2026, 10:00 AM CT | [videos/003-first-fit-vs-best-fit](videos/003-first-fit-vs-best-fit) |
+| 003 | First-Fit vs Best-Fit vs Worst-Fit — Where Does the OS Put Your Program? | Nov 15, 2026 | [YouTube Short](https://www.youtube.com/shorts/RS0nbRsO2sA) | [videos/003-first-fit-vs-best-fit](videos/003-first-fit-vs-best-fit) |
+| 004 | Segmentation Address Translation — (s, d) to Physical, With the Trap | Nov 15, 2026 | [YouTube Short](https://youtube.com/shorts/lBBNhM_1CU0) | [videos/004-segmentation-translation](videos/004-segmentation-translation) |
 
 ## How each video is made
 
@@ -24,10 +25,10 @@ Source archive for the YouTube channel [@logicanimated](https://www.youtube.com/
 
 ```
 videos/NNN-slug/
-  script.md     the script: narration, scene-by-scene visuals, upload copy
-  src/          Manim scene file + Kokoro audio generator used for this video
-  audio/        narration.mp3 + per-segment MP3s
-  <Final>.mp4   the exact render that was uploaded
+    script.md     the script: narration, scene-by-scene visuals, upload copy
+    src/          Manim scene file + Kokoro audio generator used for this video
+    audio/        narration.mp3 + per-segment MP3s
+    <Final>.mp4   the exact render that was uploaded
 templates/      shared segment-locked scene base code (see segment_base.py)
 ```
 
@@ -37,3 +38,21 @@ Deliberately **not** in this repo: the Kokoro model files (~338 MB, over GitHub'
 
 - YouTube: [@logicanimated](https://www.youtube.com/channel/UCdV7eAyp0vh_rx3Qcggggxg)
 - Topics: algorithms, operating systems, and CS fundamentals — animated step by step
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
